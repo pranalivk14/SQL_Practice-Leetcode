@@ -15,4 +15,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pranalivk14/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/pranalivk14/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/pranalivk14/Leetcode/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/pranalivk14/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
