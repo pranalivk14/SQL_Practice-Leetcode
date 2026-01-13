@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0595-big-countries](https://github.com/pranalivk14/Leetcode/tree/master/0595-big-countries) |
 | [1182-game-play-analysis-iv](https://github.com/pranalivk14/Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pranalivk14/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1757-recyclable-and-low-fat-products](https://github.com/pranalivk14/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1801-average-time-of-process-per-machine](https://github.com/pranalivk14/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/pranalivk14/Leetcode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/pranalivk14/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
