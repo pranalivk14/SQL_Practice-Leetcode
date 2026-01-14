@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0577-employee-bonus](https://github.com/pranalivk14/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/pranalivk14/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/pranalivk14/Leetcode/tree/master/0595-big-countries) |
+| [0610-triangle-judgement](https://github.com/pranalivk14/Leetcode/tree/master/0610-triangle-judgement) |
 | [1182-game-play-analysis-iv](https://github.com/pranalivk14/Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pranalivk14/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/pranalivk14/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
