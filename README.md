@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0176-second-highest-salary](https://github.com/pranalivk14/Leetcode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/pranalivk14/Leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/pranalivk14/Leetcode/tree/master/0180-consecutive-numbers) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/pranalivk14/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/pranalivk14/Leetcode/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/pranalivk14/Leetcode/tree/master/0184-department-highest-salary) |
 | [0595-big-countries](https://github.com/pranalivk14/Leetcode/tree/master/0595-big-countries) |
