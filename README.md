@@ -22,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [1934-confirmation-rate](https://github.com/pranalivk14/Leetcode/tree/master/1934-confirmation-rate) |
 | [2087-confirmation-rate](https://github.com/pranalivk14/Leetcode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/pranalivk14/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/pranalivk14/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
