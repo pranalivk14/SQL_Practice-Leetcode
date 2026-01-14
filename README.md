@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0620-not-boring-movies](https://github.com/pranalivk14/Leetcode/tree/master/0620-not-boring-movies) |
 | [1070-product-sales-analysis-iii](https://github.com/pranalivk14/Leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/pranalivk14/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1148-article-views-i](https://github.com/pranalivk14/Leetcode/tree/master/1148-article-views-i) |
 | [1182-game-play-analysis-iv](https://github.com/pranalivk14/Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pranalivk14/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/pranalivk14/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
