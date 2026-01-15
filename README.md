@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1148-article-views-i](https://github.com/pranalivk14/Leetcode/tree/master/1148-article-views-i) |
 | [1182-game-play-analysis-iv](https://github.com/pranalivk14/Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/pranalivk14/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1211-queries-quality-and-percentage](https://github.com/pranalivk14/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pranalivk14/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/pranalivk14/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1801-average-time-of-process-per-machine](https://github.com/pranalivk14/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
