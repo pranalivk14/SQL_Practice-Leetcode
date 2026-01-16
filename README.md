@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0610-triangle-judgement](https://github.com/pranalivk14/Leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/pranalivk14/Leetcode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/pranalivk14/Leetcode/tree/master/0626-exchange-seats) |
+| [1045-customers-who-bought-all-products](https://github.com/pranalivk14/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/pranalivk14/Leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/pranalivk14/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/pranalivk14/Leetcode/tree/master/1148-article-views-i) |
