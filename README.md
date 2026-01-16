@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1661-average-time-of-process-per-machine](https://github.com/pranalivk14/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/pranalivk14/Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pranalivk14/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/pranalivk14/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/pranalivk14/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/pranalivk14/Leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1801-average-time-of-process-per-machine](https://github.com/pranalivk14/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
