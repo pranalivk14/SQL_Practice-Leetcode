@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1757-recyclable-and-low-fat-products](https://github.com/pranalivk14/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/pranalivk14/Leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1801-average-time-of-process-per-machine](https://github.com/pranalivk14/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
+| [1873-calculate-special-bonus](https://github.com/pranalivk14/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1934-confirmation-rate](https://github.com/pranalivk14/Leetcode/tree/master/1934-confirmation-rate) |
 | [2087-confirmation-rate](https://github.com/pranalivk14/Leetcode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/pranalivk14/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
