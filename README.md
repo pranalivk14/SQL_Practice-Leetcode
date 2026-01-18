@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1890-the-latest-login-in-2020](https://github.com/pranalivk14/Leetcode/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/pranalivk14/Leetcode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/pranalivk14/Leetcode/tree/master/1934-confirmation-rate) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/pranalivk14/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2087-confirmation-rate](https://github.com/pranalivk14/Leetcode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/pranalivk14/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/pranalivk14/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
