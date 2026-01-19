@@ -1,9 +1,7 @@
 SELECT person_name
 FROM
-    (SELECT person_name, 
-            SUM(weight) OVER (ORDER BY turn) AS total_weight,
-            turn
-    FROM Queue) cte
-WHERE total_weight <= 1000
-ORDER BY turn DESC
+(SELECT person_id, person_name, SUM(weight) OVER(ORDER BY turn) AS total_weight
+FROM Queue) AS temp1
+WHERE total_weight<=1000
+ORDER BY total_weight DESC
 LIMIT 1
